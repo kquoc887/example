@@ -9,6 +9,7 @@ using System.Windows.Forms;
 
 namespace demo
 {
+    //Chao Moi Nguoi, Minh Da Den Day. hihi
     public partial class Form1 : Form
     {
         public Form1()
