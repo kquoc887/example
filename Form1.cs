@@ -14,6 +14,7 @@ namespace demo
         public Form1()
         {
             InitializeComponent();
+            //xuyen toc do
         }
     }
 }
