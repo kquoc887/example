@@ -17,5 +17,6 @@ namespace demo
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        // Comment new.
     }
 }
